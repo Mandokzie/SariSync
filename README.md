@@ -23,7 +23,7 @@ https://github.com/Mandokzie/SariSync.git
 - Contract IDs / asset issuers (if any): N/A
 
 ## Team
-- [Armando Pacampara Jr.] — @[Mandokzie]
+- [Armando Pacampara Jr.] — @Mandokzie
 
 ## Novelty Note (optional, for bonus points)
 By digitizing the "last-mile" procurement process for sari-sari stores, this project turns small neighborhood shops into globally-connected retail nodes using Stellar's efficient payment infrastructure.
